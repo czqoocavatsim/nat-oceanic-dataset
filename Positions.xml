@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Positions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Position Name="North Alantic Tracks" Type="ASD" DefaultCenter="+570000.000-0295913.000" DefaultRange="3500" VisibilityRange="750">  
+    <Sectors>
+      <Sector Name="NATOC"/> ``GANOC,SHANO,SHANT,MONCT``
+      <Sector Name="GANOC"/>
+      <Sector Name="SHANO"/>
+      <Sector Name="SHANT"/>
+      <Sector Name="MONCT"/>
+      <Sector Name="GANDD"/>
+      <Sector Name="BRSTX"/>
+    </Sectors>
+    <ManualVisibility>
+      <Point>+48.000-024.000</Point>
+      <Point>+49.000-044.000</Point>
+      <Point>+60.750-047.000</Point>
+      <Point>+60.000-024.000</Point>
+    </ManualVisibility>
+    <Maps>
+      <Map Name="GEO" />
+      <Map Name="FIR/FIR" />
+      <Map Name="FIR/SECT" />	
+      <Map Name="Tracks and Airways/Tango routes"/>
+      <Map Name="Tracks and Airways/Concord Routes"/>"
+    </Maps>
+    <Strips Mode="State" Sort="Alpha">
+      <Window Type="State" State="Jurisdiction" Visible="true" />
+      <Window Type="State" State="Announced" Visible="true" />
+      <Window Type="State" State="Preactive" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="10000" />
+    <ArrivalLists/>
+    <ControllerInfo>
+      <Line>"Shanwick Radio" or "Gander Radio" | CPDLC NATX.</Line>
+      <Line>Covering Shanwick (EGGX) and Gander Oceanic (CZQX) OCAs.</Line>
+      <Line>Oceanic Clearance on nattrak.vatsim.net. Clearance not available on CPDLC.</Line>
+    </ControllerInfo>
+  </Position>
+  <Position Name="Gander Oceanic" Type="ASD" DefaultCenter="+541700.000-0454000.000" DefaultRange="2200" VisibilityRange="600">  
+    <Sectors>
+      <Sector Name="GANOC"/>  
+      <Sector Name="MONCT"/>
+      <Sector Name="GANDD"/>
+    </Sectors>
+    <ManualVisibility>
+      <Point>+60.500-057.000</Point>
+      <Point>+59.500-036.500</Point>
+      <Point>+49.750-051.000</Point>
+      <Point>+48.500-035.500</Point>
+    </ManualVisibility>
+    <Maps>
+      <Map Name="GEO" />
+      <Map Name="FIR/FIR" />
+      <Map Name="FIR/SECT" />
+      <Map Name="Tracks and Airways/Concord Routes"/>"
+    </Maps>
+    <Strips Mode="State" Sort="Alpha">
+      <Window Type="State" State="Jurisdiction" Visible="true" />
+      <Window Type="State" State="Announced" Visible="true" />
+      <Window Type="State" State="Preactive" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="10000" />
+    <ArrivalLists/>
+    <ControllerInfo>
+      <Line>"Gander Radio" | CPDLC CZQX.</Line>
+      <Line>Covering Gander OCA.</Line>
+      <Line>Oceanic Clearance on nattrak.vatsim.net. Clearance not available on CPDLC.</Line>
+    </ControllerInfo>
+  </Position>
+  <Position Name="Shanwick Oceanic" Type="ASD" DefaultCenter="+535000.000-0200400.000" DefaultRange="2200" VisibilityRange="600">  
+    <Sectors>
+      <Sector Name="SHANO"/>
+      <Sector Name="SHANT"/>
+      <Sector Name="BRSTX"/>
+    </Sectors>
+    <ManualVisibility>
+      <Point>+59.000-013.500</Point>
+      <Point>+59.000-025.000</Point>
+      <Point>+47.000-014.000</Point>
+      <Point>+48.000-024.500</Point>
+    </ManualVisibility>
+    <Maps>
+      <Map Name="GEO" />
+      <Map Name="FIR/FIR" />
+      <Map Name="FIR/SECT" />
+      <Map Name="Tracks and Airways/Tango routes"/>
+      <Map Name="Tracks and Airways/Concord Routes"/>"
+    </Maps>
+    <Strips Mode="State" Sort="Alpha">
+      <Window Type="State" State="Jurisdiction" Visible="true" />
+      <Window Type="State" State="Announced" Visible="true" />
+      <Window Type="State" State="Preactive" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="10000" />
+    <ArrivalLists/>
+    <ControllerInfo>
+      <Line>"Shanwick Radio" | CPDLC EGGX.</Line>
+      <Line>Covering Shanwick OCA.</Line>
+      <Line>Oceanic Clearance on nattrak.vatsim.net. Clearance not available on CPDLC.</Line>
+    </ControllerInfo>
+  </Position>
+  <Position Name="Gander Delivery" Type="ASD" DefaultCenter="+524919.000-0550000.000" DefaultRange="2000" VisibilityRange="500">
+    <Sectors>
+      <Sector Name="GNDEL"/>
+    </Sectors>
+    <ManualVisibility>
+      <Point>+53.000-008.500</Point>
+    </ManualVisibility>
+    <Maps>
+      <Map Name="FIR/FIR" />
+      <Map Name="Tracks and Airways/Tango routes"/>
+      <Map Name="Tracks and Airways/Concord Routes"/>"
+      <Map Name="Fixes/Entry Points"/>
+      <Map Name="Fixes/Entry Points Names"/>
+    </Maps>
+    <Strips Mode="State" Sort="Alpha">
+      <Window Type="State" State="Preactive" Visible="true"/>
+      <Window Type="State" State="Announced" Visible="true"/>
+    </Strips>
+    <CFL Quicklevel="38000"/>
+    <ArrivalLists/>
+    <ControllerInfo>
+    <Line>"Gander Oceanic"</Line>
+      <Line>Gander Voice Delivery VHF.</Line>
+      <Line>Oceanic Clearance on nattrak.vatsim.net. Clearance not available on CPDLC.</Line>
+    </ControllerInfo>
+  </Position>
+  <Position Name="Shanwick Delivery" Type="ASD" DefaultCenter="+524919.000-0123000.000" DefaultRange="2000" VisibilityRange="500">
+    <Sectors>
+      <Sector Name="SWDEL"/>
+    </Sectors>
+    <ManualVisibility>
+      <Point>+53.000-008.500</Point>
+    </ManualVisibility>
+    <Maps>
+      <Map Name="FIR/FIR" />
+      <Map Name="Tracks and Airways/Tango routes"/>
+      <Map Name="Tracks and Airways/Concord Routes"/>"
+      <Map Name="Fixes/Entry Points"/>
+      <Map Name="Fixes/Entry Points Names"/>
+    </Maps>
+    <Strips Mode="State" Sort="Alpha">
+      <Window Type="State" State="Preactive" Visible="true"/>
+      <Window Type="State" State="Announced" Visible="true"/>
+    </Strips>
+    <CFL Quicklevel="38000"/>
+    <ArrivalLists/>
+    <ControllerInfo>
+    <Line>"Shanwick Oceanic"</Line>
+      <Line>Shanwick Voice Delivery VHF.</Line>
+      <Line>Oceanic Clearance on nattrak.vatsim.net. Clearance not available on CPDLC.</Line>
+    </ControllerInfo>
+  </Position>
+</Positions>

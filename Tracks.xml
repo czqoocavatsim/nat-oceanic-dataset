@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TrackSymbols>
+	<TrackSymbol Type="Primary" StrokeWidth="1">
+		<PathGeometry>
+			<Figure Start="-4,-4" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>5,5</Line>
+			</Figure>		
+			<Figure Start="4,-4" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>-5,5</Line>
+			</Figure>			
+			<Figure Start="0,-4" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>0,5</Line>			
+			</Figure>			
+			<Figure Start="-4,0" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>5,0</Line>			
+			</Figure>			
+		</PathGeometry>
+	</TrackSymbol>
+	<!-- Special Code 2 Diamond -->
+	<TrackSymbol Type="ModeA" SpecialCode="2000" RotateToTrack="True" StrokeWidth="0">
+		<PathGeometry>
+			<Figure Start="0,-8" FigureBegin="Filled" FigureEnd="Closed">
+				<Line>-1.5,-6</Line>
+				<Line>-1.5,-1.5</Line>
+				<Line>-9,3</Line>
+				<Line>-9,5</Line>
+				<Line>-1.5,3</Line>
+				<Line>-1.5,7</Line>
+				<Line>-4,10</Line>
+				<Line>-4,11</Line>
+				<Line>4,11</Line>
+				<Line>4,10</Line>
+				<Line>1.5,7</Line>				
+				<Line>1.5,3</Line>
+				<Line>9,5</Line>
+				<Line>9,3</Line>
+				<Line>1.5,-1.5</Line>
+				<Line>1.5,-6</Line>			
+			</Figure>				
+		</PathGeometry>		
+	</TrackSymbol>
+	<TrackSymbol Type="ModeA" RotateToTrack="True" StrokeWidth="1">
+		<PathGeometry>
+			<Figure Start="0,-8" FigureBegin="Hollow" FigureEnd="Closed">
+				<Line>-1.5,-6</Line>
+				<Line>-1.5,-1.5</Line>
+				<Line>-9,3</Line>
+				<Line>-9,5</Line>
+				<Line>-1.5,3</Line>
+				<Line>-1.5,7</Line>
+				<Line>-4,10</Line>
+				<Line>-4,11</Line>
+				<Line>0,9</Line>
+				<Line>4,11</Line>
+				<Line>4,10</Line>
+				<Line>1.5,7</Line>				
+				<Line>1.5,3</Line>
+				<Line>9,5</Line>
+				<Line>9,3</Line>
+				<Line>1.5,-1.5</Line>
+				<Line>1.5,-6</Line>				
+			</Figure>
+			<Figure Start="-9,3" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>0,1</Line>
+				<Line>9,3</Line>				
+			</Figure>	
+			<Figure Start="0,-8" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>0,9</Line>				
+			</Figure>			
+		</PathGeometry>			
+	</TrackSymbol>
+	
+	<!-- SSR Astrix -->		
+	<TrackSymbol Type="ModeS" RotateToTrack="True" StrokeWidth="0.5">
+		<PathGeometry>
+			<Figure Start="0,-8" FigureBegin="Hollow" FigureEnd="Closed">
+				<Line>-1.5,-6</Line>
+				<Line>-1.5,-1.5</Line>
+				<Line>-9,3</Line>
+				<Line>-9,5</Line>
+				<Line>-1.5,3</Line>
+				<Line>-1.5,7</Line>
+				<Line>-4,10</Line>
+				<Line>-4,11</Line>
+				<Line>0,9</Line>
+				<Line>4,11</Line>
+				<Line>4,10</Line>
+				<Line>1.5,7</Line>				
+				<Line>1.5,3</Line>
+				<Line>9,5</Line>
+				<Line>9,3</Line>
+				<Line>1.5,-1.5</Line>
+				<Line>1.5,-6</Line>				
+			</Figure>
+			<Figure Start="-9,3" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>0,1</Line>
+				<Line>9,3</Line>				
+			</Figure>	
+			<Figure Start="0,-8" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>0,9</Line>				
+			</Figure>			
+		</PathGeometry>	
+	</TrackSymbol>	
+	<TrackSymbol Type="ModeS" SpecialCode="2000" RotateToTrack="True" StrokeWidth="0">
+		<PathGeometry>
+			<Figure Start="0,-8" FigureBegin="Filled" FigureEnd="Closed">
+				<Line>-1.5,-6</Line>
+				<Line>-1.5,-1.5</Line>
+				<Line>-9,3</Line>
+				<Line>-9,5</Line>
+				<Line>-1.5,3</Line>
+				<Line>-1.5,7</Line>
+				<Line>-4,10</Line>
+				<Line>-4,11</Line>
+				<Line>0,9</Line>
+				<Line>4,11</Line>
+				<Line>4,10</Line>
+				<Line>1.5,7</Line>				
+				<Line>1.5,3</Line>
+				<Line>9,5</Line>
+				<Line>9,3</Line>
+				<Line>1.5,-1.5</Line>
+				<Line>1.5,-6</Line>				
+			</Figure>
+			<Figure Start="-9,3" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>0,1</Line>
+				<Line>9,3</Line>				
+			</Figure>	
+			<Figure Start="0,-8" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>0,9</Line>				
+			</Figure>			
+		</PathGeometry>	
+	</TrackSymbol>	
+	<TrackSymbol Type="ADSC" RotateToTrack="True" StrokeWidth="0.5">
+		<PathGeometry>
+			<Figure Start="0,-8" FigureBegin="Hollow" FigureEnd="Closed">
+				<Line>-1.5,-6</Line>
+				<Line>-1.5,-1.5</Line>
+				<Line>-9,3</Line>
+				<Line>-9,5</Line>
+				<Line>-1.5,3</Line>
+				<Line>-1.5,7</Line>
+				<Line>-4,10</Line>
+				<Line>-4,11</Line>
+				<Line>0,9</Line>
+				<Line>4,11</Line>
+				<Line>4,10</Line>
+				<Line>1.5,7</Line>				
+				<Line>1.5,3</Line>
+				<Line>9,5</Line>
+				<Line>9,3</Line>
+				<Line>1.5,-1.5</Line>
+				<Line>1.5,-6</Line>				
+			</Figure>
+			<Figure Start="-9,3" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>0,1</Line>
+				<Line>9,3</Line>				
+			</Figure>	
+			<Figure Start="0,-8" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>0,9</Line>				
+			</Figure>			
+		</PathGeometry>	
+	</TrackSymbol>	
+	<TrackSymbol Type="ADSC" SpecialCode="2000" RotateToTrack="True" StrokeWidth="0">
+		<PathGeometry>
+			<Figure Start="0,-8" FigureBegin="Filled" FigureEnd="Closed">
+				<Line>-1.5,-6</Line>
+				<Line>-1.5,-1.5</Line>
+				<Line>-9,3</Line>
+				<Line>-9,5</Line>
+				<Line>-1.5,3</Line>
+				<Line>-1.5,7</Line>
+				<Line>-4,10</Line>
+				<Line>-4,11</Line>
+				<Line>0,9</Line>
+				<Line>4,11</Line>
+				<Line>4,10</Line>
+				<Line>1.5,7</Line>				
+				<Line>1.5,3</Line>
+				<Line>9,5</Line>
+				<Line>9,3</Line>
+				<Line>1.5,-1.5</Line>
+				<Line>1.5,-6</Line>				
+			</Figure>
+			<Figure Start="-9,3" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>0,1</Line>
+				<Line>9,3</Line>				
+			</Figure>	
+			<Figure Start="0,-8" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>0,9</Line>				
+			</Figure>			
+		</PathGeometry>	
+	</TrackSymbol>	
+
+	<!-- ADSB Line in Diamond -->
+	<TrackSymbol Type="ADSB" RotateToTrack="True" StrokeWidth="0.5">
+		<PathGeometry>
+			<Figure Start="0,-8" FigureBegin="Hollow" FigureEnd="Closed">
+				<Line>-1.5,-6</Line>
+				<Line>-1.5,-1.5</Line>
+				<Line>-9,3</Line>
+				<Line>-9,5</Line>
+				<Line>-1.5,3</Line>
+				<Line>-1.5,7</Line>
+				<Line>-4,10</Line>
+				<Line>-4,11</Line>
+				<Line>0,9</Line>
+				<Line>4,11</Line>
+				<Line>4,10</Line>
+				<Line>1.5,7</Line>				
+				<Line>1.5,3</Line>
+				<Line>9,5</Line>
+				<Line>9,3</Line>
+				<Line>1.5,-1.5</Line>
+				<Line>1.5,-6</Line>				
+			</Figure>
+			<Figure Start="-9,3" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>0,1</Line>
+				<Line>9,3</Line>				
+			</Figure>	
+			<Figure Start="0,-8" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>0,9</Line>				
+			</Figure>			
+		</PathGeometry>		
+	</TrackSymbol>
+	
+	<!--ADSB Solid Plane-->
+	<TrackSymbol Type="ADSB" SpecialCode="2000" RotateToTrack="True" StrokeWidth="0">
+		<PathGeometry>
+			<Figure Start="0,-8" FigureBegin="Filled" FigureEnd="Closed">
+				<Line>-1.5,-6</Line>
+				<Line>-1.5,-1.5</Line>
+				<Line>-9,3</Line>
+				<Line>-9,5</Line>
+				<Line>-1.5,3</Line>
+				<Line>-1.5,7</Line>
+				<Line>-4,10</Line>
+				<Line>-4,11</Line>
+				<Line>0,9</Line>
+				<Line>4,11</Line>
+				<Line>4,10</Line>
+				<Line>1.5,7</Line>				
+				<Line>1.5,3</Line>
+				<Line>9,5</Line>
+				<Line>9,3</Line>
+				<Line>1.5,-1.5</Line>
+				<Line>1.5,-6</Line>			
+			</Figure>			
+		</PathGeometry>
+	</TrackSymbol>
+	
+	<!--Flight plan hollow plane-->
+	<TrackSymbol Type="FlightPlan" StrokeWidth="1">
+		<RectangleGeometry TopLeft="-6,-6" BottomRight="6,6" />
+	</TrackSymbol>
+	
+	<TrackSymbol Type="Cancelled">
+		<EllipseGeometry Center="0,0" RadiusX="3" RadiusY="3" />
+	</TrackSymbol>
+	<TrackSymbol Type="HistoryMarker" StrokeWidth="2">
+		<EllipseGeometry Center="0,0" RadiusX="1" RadiusY="1" />
+	</TrackSymbol>
+	<TrackSymbol Type="VelocityMarker" StrokeWidth="0">
+		<EllipseGeometry Center="0,0" RadiusX="2" RadiusY="2" />
+	</TrackSymbol>
+	<TrackSymbol Type="SRPTimeMarker" StrokeWidth="0">
+		<RectangleGeometry TopLeft="-2,-2" BottomRight="2,2" />
+	</TrackSymbol>
+	<TrackSymbol Type="SRPDistanceMarker">
+		<PathGeometry>
+			<Figure Start="-3,-3" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>3, 3</Line>
+			</Figure>
+			<Figure Start="3,-3" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>-3, 3</Line>
+			</Figure>
+		</PathGeometry>
+	</TrackSymbol>
+
+	<!-- Radar Coast Hashtag-->	
+	<TrackSymbol Type="CoastRadar" StrokeWidth="1">
+		<PathGeometry>
+			<Figure Start="-2,-5" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>-3,6</Line>
+			</Figure>
+			<Figure Start="2,-5" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>1,6</Line>
+			</Figure>
+			<Figure Start="-5,-2" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>5,-2</Line>
+			</Figure>	
+			<Figure Start="-5,2" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>5, 2</Line>
+			</Figure>
+		</PathGeometry>
+	</TrackSymbol>		
+
+	<!-- ADSB Coast Hashtag-->	
+	<TrackSymbol Type="CoastADSB" StrokeWidth="1">
+		<PathGeometry>
+			<Figure Start="-2,-5" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>-3,6</Line>
+			</Figure>
+			<Figure Start="2,-5" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>1,6</Line>
+			</Figure>
+			<Figure Start="-5,-2" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>5,-2</Line>
+			</Figure>	
+			<Figure Start="-5,2" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>5, 2</Line>
+			</Figure>
+		</PathGeometry>
+	</TrackSymbol>		
+	
+	<!-- Selection Octagon N/A -->
+	<TrackSymbol Type="Selection" StrokeWidth="1">
+		<PathGeometry>
+			<Figure Start="11,-5" FigureBegin="Hollow" FigureEnd="Closed">
+				<Line>5, -11</Line>
+				<Line>-5, -11</Line>
+				<Line>-11, -5</Line>
+				<Line>-11, 5</Line>
+				<Line>-5, 11</Line>
+				<Line>5, 11</Line>
+				<Line>11, 5</Line>
+			</Figure>
+		</PathGeometry>
+	</TrackSymbol>
+
+</TrackSymbols>

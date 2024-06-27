@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Radars xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Sat Jan  9 11:14:36 2021">
+<!--Ocean ADSB coverage-->
+  <Radar Name="ADSC1" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <Lat>+50.000</Lat>
+    <Long>-40.000</Long>
+  </Radar>
+  <Radar Name="ADSC2" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <Lat>+55.000</Lat>
+    <Long>-40.000</Long>
+  </Radar>
+  <Radar Name="ADSC3" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <Lat>+60.000</Lat>
+    <Long>-40.000</Long>
+  </Radar>
+  <Radar Name="ADSC4" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <Lat>+59.000</Lat>
+    <Long>-20.000</Long>
+  </Radar>
+  <Radar Name="ADSC5" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <Lat>+54.000</Lat>
+    <Long>-19.000</Long>
+  </Radar>
+  <Radar Name="ADSC6" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <Lat>+49.000</Lat>
+    <Long>-20.000</Long>
+  </Radar>
+  <Radar Name="ADSC7" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <Lat>+63.000</Lat>
+    <Long>-50.000</Long>
+  </Radar>
+  <Radar Name="ADSC8" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <Lat>+59.000</Lat>
+    <Long>-50.000</Long>
+  </Radar>
+  <Radar Name="ADSC9" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <Lat>+55.000</Lat>
+    <Long>-50.000</Long>
+  </Radar>
+  <Radar Name="ADSC10" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <Lat>+49.000</Lat>
+    <Long>-50.000</Long>
+  </Radar>
+  <Radar Name="ADSC11" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <Lat>+45.000</Lat>
+    <Long>-50.000</Long>
+  </Radar>
+  <Radar Name="ADSC12" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <Lat>+40.000</Lat>
+    <Long>-50.000</Long>
+  </Radar>
+  <Radar Name="ADSC13" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <Lat>+60.000</Lat>
+    <Long>-30.000</Long>
+  </Radar>"
+  <Radar Name="ADSC14" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <Lat>+55.000</Lat>
+    <Long>30.000</Long>
+  </Radar>
+  <Radar Name="ADSC15" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <Lat>+50.000</Lat>
+    <Long>-30.000</Long>
+  </Radar>
+  <Radar Name="ADSC15" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <lat>+45.000</lat>
+    <Long>-50.000</Long>
+  </Radar>
+  <Radar Name="ADSC16" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <lat>+40.000</lat>
+    <Long>-50.000</Long>
+  </Radar>
+  <Radar Name="ADSC17" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <lat>+45.500</lat>
+    <Long>-40.000</Long>
+  </Radar>
+  <Radar Name="ADSC18" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <lat>+45.500</lat>
+    <Long>-30.000</Long>
+  </Radar>
+  <Radar Name="ADSC19" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <lat>+44.500</lat>
+    <Long>-20.000</Long>
+  </Radar>
+  <Radar Name="ADSC20" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <lat>+43.000</lat>
+    <Long>-09.000</Long>
+  </Radar>
+  <Radar Name="ADSC21" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <lat>+58.000</lat>
+    <Long>-60.000</Long>
+  </Radar>
+  <Radar Name="ADSC22" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <lat>+62.000</lat>
+    <Long>-60.000</Long>
+  </Radar>
+  <Radar Name="ADSC23" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <lat>+53.000</lat>
+    <Long>-60.000</Long>
+  </Radar>
+  <Radar Name="ADSC24" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <Lat>+59.000</Lat>
+    <Long>-9.000</Long>
+  </Radar>
+  <Radar Name="ADSC25" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <lat>+46.000</lat>
+    <Long>-10.500</Long>
+  </Radar>
+  <Radar Name="ADSC26" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <lat>+64.000</lat>
+    <Long>-20.000</Long>
+  </Radar>
+  <Radar Name="ADSC27" Type="ADSB" Elevation="10000" MaxRange="5000">
+    <Lat>+64.000</Lat>
+    <Long>-47.000</Long>
+  </Radar>
+  <!--Canada Radar coverage-->
+  <Radar Name="CanSB1" Type="SSR_ModeC" Elevation="10000" MaxRange="5000">
+    <lat>+54.750</lat>
+    <Long>-58.750</Long>
+  </Radar>
+  <Radar Name="CanSB2" Type="SSR_ModeC" Elevation="10000" MaxRange="5000">
+    <lat>+58.000</lat>
+    <Long>-63.000</Long>
+  </Radar>
+  <Radar Name="CanSB3" Type="SSR_ModeC" Elevation="10000" MaxRange="5000">
+    <lat>+60.000</lat>
+    <Long>-65.000</Long>
+  </Radar>
+  <Radar Name="CanSB4" Type="SSR_ModeC" Elevation="10000" MaxRange="5000">
+    <lat>+64.000</lat>
+    <Long>-65.500</Long>
+  </Radar>
+  <Radar Name="CanSB5" Type="SSR_ModeC" Elevation="10000" MaxRange="5000">
+    <lat>+66.500</lat>
+    <Long>-62.000</Long>
+  </Radar>
+  <Radar Name="CanSB6" Type="SSR_ModeC" Elevation="10000" MaxRange="5000">
+    <lat>+47.000</lat>
+    <Long>-53.000</Long>
+  </Radar>
+  <Radar Name="CanPri1" Type="PRI" Elevation="10000" MaxRange="5000">
+    <lat>+54.750</lat>
+    <Long>-58.750</Long>
+  </Radar>
+  <Radar Name="CanPri2" Type="PRI" Elevation="10000" MaxRange="5000">
+    <lat>+58.000</lat>
+    <Long>-63.000</Long>
+  </Radar>
+  <Radar Name="CanPri3" Type="PRI" Elevation="10000" MaxRange="5000">
+    <lat>+60.000</lat>
+    <Long>-65.000</Long>
+  </Radar>
+  <Radar Name="CanPri4" Type="PRI" Elevation="10000" MaxRange="5000">
+    <lat>+64.000</lat>
+    <Long>-65.500</Long>
+  </Radar>
+  <Radar Name="CanPri5" Type="PRI" Elevation="10000" MaxRange="5000">
+    <lat>+66.500</lat>
+    <Long>-62.000</Long>
+  </Radar>
+  <Radar Name="CanPri6" Type="PRI" Elevation="10000" MaxRange="5000">
+    <lat>+47.000</lat>
+    <Long>-53.000</Long>
+  </Radar>
+  <Radar Name="ShanPri1" Type="PRI" Elevation="500" MaxRange="5000">
+    <lat>+53.000</lat>
+    <Long>-9.000</Long>
+  </Radar>
+  <Radar Name="ShanModeC" Type="SSR_ModeC" Elevation="500" MaxRange="5000">
+    <Lat>+53.000</Lat>
+    <Long>-09.000</Long>
+  </Radar>
+  <Radar Name="MadridModeC" Type="SSR_ModeC" Elevation="1000" MaxRange="5000">
+    <Lat>+43.000</Lat>
+    <Long>-9.000</Long>
+  </Radar>
+  <Radar Name="ShanPRI" Type="PRI" Elevation="500" MaxRange="5000">
+    <Lat>+53.000</Lat>
+    <Long>-09.000</Long>
+  </Radar>
+  <Radar Name="MadridPRI" Type="PRI" Elevation="1000" MaxRange="5000">
+    <Lat>+43.000</Lat>
+    <Long>-9.000</Long>
+  </Radar>
+</Radars>

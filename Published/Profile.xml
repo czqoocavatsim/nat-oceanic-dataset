@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Profile Name="NAT" FullName="Gander Oceanic">
+	<Version AIRAC="2405" Revision="f" PublishDate="20240615" UpdateURL="https://github.com/badvectors/nat-oceanic-dataset/raw/main/Published/" />
+	<Servers>
+		<VATSIMStatus url="https://status.vatsim.net/" />
+		<GRIB url="https://sawbe.com/GRIB/" />
+		<G2G url="antifaff.vatsys.sawbe.com" port="64738" />
+		<LocalHost url="localhost" />
+		<SweatBox url="simulator.badvectors.dev" />
+	</Servers>	
+</Profile>

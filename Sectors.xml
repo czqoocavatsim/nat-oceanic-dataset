@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sectors xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Sector FullName="North Alantic" Frequency="131.900" Callsign="NAT_FSS" Name="NATOC">
+    <Volumes></Volumes> 
+    <ResponsibleSectors>GANOC,SHANO,SHANT,MONCT,GANDD,BRSTX</ResponsibleSectors>
+  </Sector>  
+  <Sector FullName="Gander" Frequency="131.700" Callsign="CZQO_CTR" Name="GANOC">  
+    <Volumes>CZQX_GANDER,CZQX_NYTRANSITION,CZQX_SONDERSTROM</Volumes> 
+    <ResponsibleSectors>MONCT</ResponsibleSectors>
+  </Sector>
+  <Sector FullName="Shanwick" Frequency="131.800" Callsign="EGGX_CTR" Name="SHANO"> 
+    <Volumes>EGGX_SHANWICK</Volumes>
+    <ResponsibleSectors>SHANT,BRSTX</ResponsibleSectors>
+  </Sector>  
+  <Sector FullName="Shanwick Oceanic" Frequency="127.650" Callsign="EGGX_DEL" Name="SWDEL">
+    <Volumes>EGGX_SHANWICK</Volumes>
+  </Sector>
+  <Sector FullName="Gander Oceanic" Frequency="128.700" Callsign="CZQO_DEL" Name="GNDEL">
+    <Volumes>CZQX_GANDER</Volumes>
+  </Sector>
+  <Sector FullName="Shannon transition" Frequency="121.7" Callsign="EISN_CTR" Name="SHANT">
+    <Volumes>EISN_EITRANSITION</Volumes>
+    <ResponsibleSectors>EISN</ResponsibleSectors>
+  </Sector>
+  <!--Completely external sectors-->
+  <Sector FullName="Gander Domestic" Frequency="132.1" Callsign="CZQX_CTR" Name="GANDD">
+    <Volumes>CZQX_GANDER_WEST,CZQX_GANDER_DELEGATION</Volumes>
+  </Sector>
+  <Sector FullName="Moncton Center" Frequency="132.2" Callsign="CZQM_CTR" Name="MONCT">
+    <ResponsibleSectors>GANDD</ResponsibleSectors>
+  </Sector>
+  <Sector FullName="NUUK Center" Frequency="121.3" Callsign="BGGL_FSS" Name="NUUK">
+    <Volumes>NUUK</Volumes>
+  </Sector>
+  <Sector FullName="BIRD_6(West)" Frequency="124.4" Callsign="BIRD_6_CTR" Name="BIRD6">
+    <Volumes>BIRD_6</Volumes>
+  </Sector>
+  <Sector FullName="BIRD_1(South)" Frequency="119.7" Callsign="BIRD_1_CTR" Name="BIRD1">
+    <Volumes>BIRD_1</Volumes>
+    <ResponsibleSectors>BIRD2,BIRD3</ResponsibleSectors>
+  </Sector>
+  <Sector FullName="BIRD_2(South)" Frequency="125.7" Callsign="BIRD_2_CTR" Name="BIRD2">
+    <Volumes>BIRD_2</Volumes>
+  </Sector>
+  <Sector FullName="BIRD_3(South)" Frequency="128.6" Callsign="BIRD_3_CTR" Name="BIRD3">
+    <Volumes>BIRD_3</Volumes>
+  </Sector>
+  <Sector FullName="Scottish Control" Frequency="132.725" Callsign="SCO_CTR" Name="SCOT">
+    <Volumes>SCO_CTR</Volumes>
+  </Sector>
+  <Sector FullName="Scottish Control" Frequency="133.875" Callsign="SCO_WD_CTR" Name="SCOTWD">
+    <Volumes>SCO_CTR</Volumes>
+  </Sector>
+  <Sector FullName="Shannon Control" Frequency="121.7" Callsign="EISN_L_CTR" Name="EISN">
+    <Volumes>EISN_CTR</Volumes>
+  </Sector>
+  <Sector FullName="London West Control" Frequency="134.325" Callsign="LON_W_CTR" Name="LONDW">
+    <Volumes>LON_W_CTR</Volumes>
+  </Sector>
+  <Sector FullName="Brest Control" Frequency="125.500" Callsign="LFRR_A_CTR" Name="BREST">
+    <Volumes>LFRR_CTR</Volumes>
+  </Sector>
+  <Sector FullName="Brest Transition" Frequency="131.275" Callsign="LFRR_CTR" Name="BRSTX">
+    <Volumes>EGGX_RRTRANSITION</Volumes>
+    <ResponsibleSectors>BRSTUP,BREST</ResponsibleSectors>
+  </Sector>
+  <Sector FullName="Upper Brest Control" Frequency="127.850" Callsign="LRFF_W_CTR" Name="BRSTUP">
+    <Volumes>LFRR_W_CTR</Volumes>
+  </Sector>
+  <Sector FullName="Madrid Radar" Frequency="133.750" Callsign="LECM_CTR" Name="MADRD">
+    <Volumes>LECM_CTR</Volumes>
+  </Sector>
+  <Sector FullName="Santa Maria Radio" Frequency="132.075" Callsign="LPPO_FSS" Name="SANTO">
+    <Volumes>LPPO_FSS</Volumes>
+  </Sector>
+  <Sector FullName="New York Radio" Frequency="130.000" Callsign="NY_FSS" Name="NYOCA">
+    <Volumes>NY_FSS</Volumes>
+  </Sector>
+</Sectors>

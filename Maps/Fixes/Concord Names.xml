@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Maps>
+  <Map Type="System" CustomColourName="SpringGreen" Name="Concord Names" Priority="1" >
+    <Label LabelOrientation="E" HasLeader="false"> 
+      <Point>SM15W</Point>
+      <Point>SM20W</Point>
+      <Point>SM30W</Point>
+      <Point>SM30W</Point>
+      <Point>SM40W</Point>
+      <Point>SM50W</Point>
+      <Point>SM53W</Point>
+      <Point>SM60W</Point>
+      <Point>SM65W</Point>
+      <Point>SM65W</Point>
+      <Point>SM67W</Point>
+      <Point>SN15W</Point>
+      <Point>SN20W</Point>
+      <Point>SN30W</Point>
+      <Point>SN40W</Point>
+      <Point>SN50W</Point>
+      <Point>SN52W</Point>
+      <Point>SN60W</Point>
+      <Point>SN65W</Point>
+      <Point>SN67W</Point>
+      <Point>SO15W</Point>
+      <Point>SO20W</Point>
+      <Point>SO30W</Point>
+      <Point>SO40W</Point>
+      <Point>SO50W</Point>
+      <Point>SO52W</Point>
+      <Point>SO60W</Point>
+      <Point>SP15W</Point>
+      <Point>SP20W</Point>
+      <Point>SP45N</Point>
+      <Point>SP30W</Point>
+      <Point>SP40W</Point>
+    </Label>
+  </Map>
+</Maps>

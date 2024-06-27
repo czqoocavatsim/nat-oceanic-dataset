@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+    <Map Type="Global_Private" Name="external freqs" Priority="1">
+        <Label HasLeader="False" Alignment="Center" VerticalAlignment="Middle">
+            <Point Name="BIRD6 195+ 124.4">+661015.000-0435513.000</Point>
+            <Point Name="BIRD1 055-345 119.7">+650000.000-0312807.000</Point>
+            <Point Name="BIRD3 345-660 128.6">+642609.000-0312807.000</Point>
+            <Point Name="BIRD1 055-335 119.7">+633000.000-0260000.000</Point>
+            <Point Name="BIRD2 334-355 125.7">+630000.000-0260000.000</Point>
+            <Point Name="BIRD3 355-660 128.6">+623000.000-0260000.000</Point>
+            <Point Name="SCOT 135.525">+603000.000-0063000.000</Point>
+            <Point Name="SCO_N_CTR 129.225">+593000.000-0063000.000</Point>
+            <Point Name="SCO_W_CTR 132.725">+583000.000-0063000.000</Point>
+            <Point Name="SCO_WD_CTR 133.875">+573000.000-0063000.000</Point>
+            <Point Name="EISN 131.150">+540000.000-0110000.000</Point>
+            <Point Name="EISN SFC-245 131.150">+530000.000-0110000.000</Point>
+            <Point Name="EISN_W 245-355+ 120.050">+523000.000-0110000.000</Point>
+            <Point Name="BREST SFC-660 125.5">+470000.000-0070000.000</Point>
+            <Point Name="BRSTUP 255+ 127.850">+473000.000-0070000.000</Point>
+            <Point Name="LFRR_A 355-660 131.275">+460757.000-0070000.000</Point>
+            <Point Name="LFRR_S 255-355 124.675">+454500.000-0070000.000</Point>
+            <Point Name="MADRD SFC-245+ 133.750">+441500.000-0110000.000</Point>
+            <Point Name="LECM_U 245-660 136.350">+440000.000-0110000.000</Point>
+            <Point Name="LECM_M SFC-245+ 132.975">+434500.000-0110000.000</Point>
+            <Point Name="LECM_N SFC-245+ 125.750">+433000.000-0110000.000</Point>
+            <Point Name="LECM_W SFC-245+ 135.950">+431500.000-0110000.000</Point>
+            <Point Name="SANTO 132.075">+435000.000-0301500.000</Point>
+            <Point Name="NY_ML 130.500">+432100.000-0500000.000</Point>
+            <Point Name="NYOCA 130.000">+425100.000-0500000.000</Point>
+            <Point Name="NY_MH 365+ 130.650">+422100.000-0500000.000</Point>
+            <Point Name="MTL/_TH/_CTR 128.775">+630000.000-0680000.000</Point>
+            <Point Name="MTL_HV 134.650">+623000.000-0680000.000</Point>
+            <Point Name="MTL_BJ 125.900">+620000.000-0680000.000</Point>
+            <Point Name="MTL_NK 135.100">+613000.000-0680000.000</Point>
+            <Point Name="GANDD 132.100">+483000.000-0561500.000</Point>
+            <Point Name="MONCT 132.200">+473000.000-0624000.000</Point>
+            <Point Name="LONDW 126.080">+503000.000-0070000.000</Point>
+            <Point Name="LON_CTR 127.830">+500000.000-0070000.000</Point>
+        </Label>
+    </Map>
+    <Map Type="Global_Private" Name="Internal freqs" Priority="1">
+        <Label HasLeader="False" Alignment="Center" VerticalAlignment="Middle">
+            <Point Name="NATOC 131.9">+550000.000-0300000.000</Point>
+            <Point Name="SHANO 131.8">+550000.000-0220000.000</Point>
+            <Point Name="EGGX_A 131.450">+543000.000-0220000.000</Point>
+            <Point Name="EGGX_B 131.550">+540000.000-0220000.000</Point>
+            <Point Name="EGGX_C 131.650">+533000.000-0220000.000</Point>
+            <Point Name="EGGX_D 131.750">+530000.000-0220000.000</Point>
+            <Point Name="EGGX_F 131.850">+523000.000-0220000.000</Point>
+            <Point Name="SWDEL 127.650">+550000.000-0150000.000</Point>
+            <Point Name="A_DEL 127.900">+543000.000-0150000.000</Point>
+            <Point Name="B_DEL 123.950">+540000.000-0150000.000</Point>
+            <Point Name="C_DEL 124.175">+533000.000-0150000.000</Point>
+            <Point Name="D_DEL 126.375">+530000.000-0150000.000</Point>
+            <Point Name="F_DEL 128.375">+523000.000-0150000.000</Point>
+            <Point Name="GANDOC 131.700">+550000.000-0400000.000</Point>
+            <Point Name="CZQO_A 131.575">+543000.000-0400000.000</Point>
+            <Point Name="CZQO_B 131.675">+540000.000-0400000.000</Point>
+            <Point Name="CZQO_C 131.775">+533000.000-0400000.000</Point>
+            <Point Name="CZQO_D 131.875">+530000.000-0400000.000</Point>
+            <Point Name="CZQO_F 131.975">+523000.000-0400000.000</Point>
+            <Point Name="GDDEL 128.700">+550000.000-0500000.000</Point>
+            <Point Name="DEL_A 119.425">+543000.000-0500000.000</Point>
+            <Point Name="DEL_B 135.050">+540000.000-0500000.000</Point>
+            <Point Name="DEL_C 128.450">+533000.000-0500000.000</Point>
+            <Point Name="DEL_D 135.450">+530000.000-0500000.000</Point>
+            <Point Name="DEL_F 134.200">+523000.000-0500000.000</Point>
+        </Label>
+    </Map>
+</Maps>

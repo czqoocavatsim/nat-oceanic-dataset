@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MET>
+  <GRIB url="http://sawbe.com/GRIB/" fileName="world.grib2" />
+  <Browsers><!--bomw0007-->
+    <ATC-Assist url="https://sim-atc.com/?vatsys=true" />
+    <Natracks url="https://www.notams.faa.gov/common/nat.html" />
+    <Phraseology url="https://ganderoceanic.ca/assets/resources/files/atc/Gander_Oceanic_Phraseology_Sheet_1.1.pdf" />
+    <SOPs url="https://ganderoceanic.ca/assets/resources/files/atc/ShanwickEGGXGanderCZQOOceanicControlProcedures.pdf" />
+  </Browsers>
+</MET>

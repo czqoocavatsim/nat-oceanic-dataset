@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<Volumes>
+  <Boundary Name="SONDRESTROM">
+    +633000.000-0550000.000/
+    +583000.000-0500000.000/
+    +583000.000-0430000.000/
+    +633000.000-0390000.000/
+    +633000.000-0550000.000
+  </Boundary><Volume Name="CZQX_SONDERSTROM" LowerLimit="19500" UpperLimit="60000"><Boundaries>SONDRESTROM</Boundaries></Volume>
+  <Boundary Name="NY_TRANSITION">
+    +450000.000-0400000.000/
+    +450000.000-0500000.000/
+    +443000.000-0500000.000/
+    +443000.000-0400000.000
+  </Boundary> <Volume Name="CZQX_NYTRANSITION" LowerLimit="05500" UpperLimit="60000"><Boundaries>NY_TRANSITION</Boundaries></Volume>
+  <Boundary Name="GANDER">
+    +610000.000-0300000.000/
+    +450000.000-0300000.000/
+    +450000.000-0400000.000/
+    +450000.000-0500000.000/
+    +510000.000-0500000.000/
+    +530000.000-0540000.000/
+    +535600.000-0550000.000/
+    +633000.000-0550000.000/
+    +583000.000-0500000.000/
+    +583000.000-0430000.000/
+    +633000.000-0390000.000 
+  </Boundary> <Volume Name="CZQX_GANDER" LowerLimit="05500" UpperLimit="99900"><Boundaries>GANDER</Boundaries></Volume>
+  <Boundary Name="GOTA">
+    +633000.000-0545960.000/
+    +535256.000-0550000.000/
+    +570000.000-0590000.000/
+    +610000.000-0630000.000/
+    +640000.000-0630000.000/
+    +650000.000-0600000.000/
+    +650000.000-0574500.000
+  </Boundary><Volume Name="CZQX_GANDER_WEST" LowerLimit="19500" UpperLimit="99900"><Boundaries>GOTA</Boundaries></Volume>
+  <Boundary Name="GANDER_DOMESTIC_DELEGATION"> 
+    +530000.000-0540000.000/
+    +490000.000-0510000.000/
+    +450000.000-0510000.000/
+    +450000.000-0530000.000/
+    +442600.000-0560000.000/
+    +433533.000-0550311.000/
+    +443000.000-0500000.000/
+    +510000.000-0500000.000
+  </Boundary><Volume Name="CZQX_GANDER_DELEGATION" LowerLimit="19500" UpperLimit="99900"><Boundaries>GANDER_DOMESTIC_DELEGATION</Boundaries></Volume>
+  <Boundary Name="SHANWICK">
+    +610000.000-0300000.000/ 
+    +450000.000-0300000.000/ 
+    +450000.000-0130000.000/
+    +450000.000-0084500.000/ 
+    +483400.000-0084500.000/ 
+    +485019.000-0115940.000/
+    +490000.000-0140000.000/
+    +490000.000-0150000.000/
+    +510000.000-0150000.000/ 
+    +540000.000-0150000.000/
+    +570000.000-0150000.000/ 
+    +570000.000-0100000.000/
+    +610000.000-0100000.000
+  </Boundary> <Volume Name="EGGX_SHANWICK" LowerLimit="05500" UpperLimit="99900"><Boundaries>SHANWICK</Boundaries></Volume>
+  <Boundary Name="SHANNON_TRANS">
+    +483144.000-0075943.000/
+    +483400.000-0084500.000/
+    +485019.000-0115940.000/
+    +490000.000-0140000.000/
+    +490000.000-0150000.000/
+    +570000.000-0150000.000/
+    +570000.000-0120000.000/
+    +570000.000-0100000.000/
+    +543400.000-0100000.000/
+    +542150.000-0120020.000/
+    +540000.000-0150000.000/
+    +510000.000-0150000.000/
+    +510000.000-0080000.000
+  </Boundary><Volume Name="EISN_EITRANSITION" LowerLimit="19500" UpperLimit="99900"><Boundaries>SHANNON_TRANS</Boundaries></Volume>
+  <Boundary Name="BREST_TRANS">
+    +450000.000-0084500.000/
+    +483400.000-0084500.000/
+    +483000.000-0080000.000/
+    +450000.000-0080000.000
+  </Boundary>
+  <Volume Name="EGGX_RRTRANSITION" LowerLimit="19500" UpperLimit="99900"><Boundaries>BREST_TRANS</Boundaries></Volume>
+  <!--Completely External Sectors-->
+  <Boundary Name="NUUK">
+    +633000.000-0390000.000/
+    +583000.000-0430000.000/
+    +583000.000-0500000.000/
+    +633000.000-0550000.000/
+    +650000.000-0574500.000/
+    +701500.000-0634126.000/
+    +701500.000-0500000.000/
+    +664500.000-0300000.000
+  </Boundary> <Volume Name="NUUK" LowerLimit="00000" UpperLimit="19500"><Boundaries>NUUK</Boundaries></Volume>
+  <Boundary Name="BIRD_6">
+    +633000.000-0390000.000/
+    +633000.000-0550000.000/
+    +650000.000-0574500.000/
+    +701500.000-0634126.000/
+    +701500.000-0500000.000/
+    +664500.000-0300000.000/
+    +610000.000-0300000.000
+  </Boundary><Volume Name="BIRD_6" LowerLimit="19500" UpperLimit="66000"><Boundaries>BIRD_6</Boundaries></Volume>
+  <Boundary Name="BIRD_SOUTH">
+    +664500.000-0300000.000/
+    +664500.000-0151030.000/
+    +610000.000-0100000.000/
+    +610000.000-0300000.000
+  </Boundary>
+  <Volume Name="BIRD_1" LowerLimit="05500" UpperLimit="33500"><Boundaries>BIRD_SOUTH</Boundaries></Volume>
+  <Volume Name="BIRD_2" LowerLimit="33500" UpperLimit="35500"><Boundaries>BIRD_SOUTH</Boundaries></Volume>
+  <Volume Name="BIRD_3" LowerLimit="35500" UpperLimit="66000"><Boundaries>BIRD_SOUTH</Boundaries></Volume>
+  <Boundary Name="EISN_CTR">
+    +510000.000-0080000.000/
+    +510000.000-0120000.000/
+    +510000.000-0150000.000/
+    +540000.000-0150000.000/
+    +543400.000-0100000.000/
+    +543858.000-0093320.000
+  </Boundary>
+  <Volume Name="EISN_CTR" LowerLimit="25500" UpperLimit="66000"><Boundaries>EISN_CTR</Boundaries></Volume>
+  <Boundary Name="SCO_CTR">
+    +543858.000-0093320.000/
+    +540000.000-0100000.000/
+    +610000.000-0100000.000/
+    +610000.000-0000000.000
+  </Boundary>
+  <Boundary Name="LON_W_CTR">
+    +510000.000-0080000.000/
+    +522000.000-0053000.000/
+    +500000.000-0020000.000/
+    +485000.000-0080000.000
+  </Boundary>
+  <Volume Name="LON_W_CTR" LowerLimit="24500" UpperLimit="66000"><Boundaries>LON_W_CTR</Boundaries></Volume>
+  <Volume Name="SCO_CTR" LowerLimit="25500" UpperLimit="66000"><Boundaries>SCO_CTR</Boundaries></Volume>
+  <Boundary Name="LFRR_CTR">
+    +495957.000-0020018.000/
+    +433846.000-0015745.000/
+    +442000.000-0040000.000/
+    +450000.000-0080000.000/
+    +485000.000-0080000.000
+  </Boundary>
+  <Volume Name="LFRR_CTR" LowerLimit="00000" UpperLimit="25500"><Boundaries>LFRR_CTR</Boundaries></Volume>
+  <Volume Name="LFRR_W_CTR" LowerLimit="25500" UpperLimit="66000"><Boundaries>LFRR_CTR</Boundaries></Volume>
+  <Boundary Name="LECM_CTR">
+    +450000.000-0130000.000/
+    +450000.000-0080000.000/
+    +433846.000-0015745.000/
+    +430000.000-0130000.000
+  </Boundary>
+  <Volume Name="LECM_CTR" LowerLimit="00000" UpperLimit="66000"><Boundaries>LECM_CTR</Boundaries></Volume>
+  <Boundary Name="LPPO_FSS">
+    +450000.000-0130000.000/
+    +430000.000-0130000.000/
+    +420000.000-0150000.000/
+    +390000.000-0150000.000/
+    +420000.000-0300000.000/
+    +420000.000-0400000.000/
+    +450000.000-0400000.000/
+    +450000.000-0300000.000
+  </Boundary>
+  <Volume Name="LPPO_FSS" LowerLimit="05500" UpperLimit="66000"><Boundaries>LPPO_FSS</Boundaries></Volume>
+  <Boundary Name="NY_FSS">
+    +413000.000-0400000.000/
+    +393000.000-0500000.000/  
+    +380805.999-0560059.999/  
+    +370000.000-0600000.000/  
+    +350603.999-0630636.999/  
+    +351804.000-0634443.000/  
+    +352340.999-0642425.000/  
+    +352316.000-0650032.000/  
+    +352124.000-0651908.999/  
+    +351704.999-0654029.999/  
+    +350652.999-0661239.999/  
+    +383721.999-0684249.999/  
+    +390000.000-0670000.000/  
+    +413700.000-0670000.000/  
+    +422254.000-0611206.000/  
+    +430420.000-0575205.000/  
+    +433500.000-0554500.000/  
+    +435000.000-0545138.000/  
+    +443000.000-0500000.000/  
+    +443000.000-0400000.000/  
+    +413000.000-0400000.000
+  </Boundary>
+  <Volume Name="NY_FSS" LowerLimit="05500" UpperLimit="66000"><Boundaries>NY_FSS</Boundaries></Volume>
+</Volumes>
