@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Maps>
-    <Map Type="Global_Private" Name="external freqs" Priority="1">
+    <Map Type="Global_Private" Name="External Freqs" Priority="1">
         <Label HasLeader="False" Alignment="Center" VerticalAlignment="Middle">
             <Point Name="BIRD6 195+ 124.4">+661015.000-0435513.000</Point>
             <Point Name="BIRD1 055-345 119.7">+650000.000-0312807.000</Point>
@@ -38,7 +38,7 @@
             <Point Name="LON_CTR 127.830">+500000.000-0070000.000</Point>
         </Label>
     </Map>
-    <Map Type="Global_Private" Name="Internal freqs" Priority="1">
+    <Map Type="Global_Private" Name="Internal Freqs" Priority="1">
         <Label HasLeader="False" Alignment="Center" VerticalAlignment="Middle">
             <Point Name="NATOC 131.9">+550000.000-0300000.000</Point>
             <Point Name="SHANO 131.8">+550000.000-0220000.000</Point>

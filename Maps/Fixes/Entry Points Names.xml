@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Maps>
-  <Map Type="System" CustomColourName="SpringGreen" Name="Entry Points Names" Priority="1" >
+  <Map Type="System" CustomColourName="SpringGreen" Name="Entry Names" Priority="1" >
     <Label LabelOrientation="E" HasLeader="false"> 
 		  <Point>ADARA</Point>
 		  <Point>ADODO</Point>

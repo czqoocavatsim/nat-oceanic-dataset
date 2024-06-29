@@ -56,7 +56,7 @@
         <Line Name="M597">BETUM/PIXAR/BETIR/PUYYA/JANMA/THANK/KEEKA/QNEPA/TARMO/FIVZE</Line>
         <Line Name="M744">LASIB/ROSAL/SANTA</Line>
     </Map>
-    <Map Name="Tango routes" Priority="1" Type="System">
+    <Map Name="Tango Routes" Priority="1" Type="System">
         <Line Name="T13">IDREL/RUPEP/MANOX/LUPOV/NILAV/OMOKO</Line>
         <Line Name="T16">OMOKO/GONAN/EKROL/NAVIX/IDREL</Line>
         <Line Name="T213">BERUX/TAMEL</Line>

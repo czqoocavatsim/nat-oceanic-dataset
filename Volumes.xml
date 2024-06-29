@@ -37,6 +37,8 @@
   </Boundary><Volume Name="CZQX_GANDER_WEST" LowerLimit="19500" UpperLimit="99900"><Boundaries>GOTA</Boundaries></Volume>
   <Boundary Name="GANDER_DOMESTIC_DELEGATION"> 
     +530000.000-0540000.000/
+    +570000.000-0590000.000/
+    +525700.000-0541032.000/
     +490000.000-0510000.000/
     +450000.000-0510000.000/
     +450000.000-0530000.000/
@@ -45,6 +47,18 @@
     +443000.000-0500000.000/
     +510000.000-0500000.000
   </Boundary><Volume Name="CZQX_GANDER_DELEGATION" LowerLimit="19500" UpperLimit="99900"><Boundaries>GANDER_DOMESTIC_DELEGATION</Boundaries></Volume>
+  <Boundary Name="Ganders"> 
+    +650000.000-0574500.000/
+    +633000.000-0550000.000/
+    +540000.000-0550000.000/
+    +530000.000-0540000.000/
+    +500000.000-0510000.000/
+    +450000.000-0510000.000/
+    +450000.000-0530000.000/
+    +442608.000-0560000.000/
+    +610000.000-0630000.000/
+    +650000.000-0600000.000
+  </Boundary><Volume Name="Ganders" LowerLimit="19500" UpperLimit="99900"><Boundaries>Ganders</Boundaries></Volume>
   <Boundary Name="SHANWICK">
     +610000.000-0300000.000/ 
     +450000.000-0300000.000/ 

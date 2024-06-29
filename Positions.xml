@@ -20,7 +20,7 @@
       <Map Name="GEO" />
       <Map Name="FIR/FIR" />
       <Map Name="FIR/SECT" />	
-      <Map Name="Tracks and Airways/Tango routes"/>
+      <Map Name="Tracks and Airways/Tango Routes"/>
       <Map Name="Tracks and Airways/Concord Routes"/>"
     </Maps>
     <Strips Mode="State" Sort="Alpha">
@@ -83,7 +83,7 @@
       <Map Name="GEO" />
       <Map Name="FIR/FIR" />
       <Map Name="FIR/SECT" />
-      <Map Name="Tracks and Airways/Tango routes"/>
+      <Map Name="Tracks and Airways/Tango Routes"/>
       <Map Name="Tracks and Airways/Concord Routes"/>"
     </Maps>
     <Strips Mode="State" Sort="Alpha">
@@ -108,7 +108,7 @@
     </ManualVisibility>
     <Maps>
       <Map Name="FIR/FIR" />
-      <Map Name="Tracks and Airways/Tango routes"/>
+      <Map Name="Tracks and Airways/Tango Routes"/>
       <Map Name="Tracks and Airways/Concord Routes"/>"
       <Map Name="Fixes/Entry Points"/>
       <Map Name="Fixes/Entry Points Names"/>
@@ -134,7 +134,7 @@
     </ManualVisibility>
     <Maps>
       <Map Name="FIR/FIR" />
-      <Map Name="Tracks and Airways/Tango routes"/>
+      <Map Name="Tracks and Airways/Tango Routes"/>
       <Map Name="Tracks and Airways/Concord Routes"/>"
       <Map Name="Fixes/Entry Points"/>
       <Map Name="Fixes/Entry Points Names"/>

@@ -23,11 +23,14 @@
     <ResponsibleSectors>EISN</ResponsibleSectors>
   </Sector>
   <!--Completely external sectors-->
-  <Sector FullName="Gander Domestic" Frequency="132.1" Callsign="CZQX_CTR" Name="GANDD">
-    <Volumes>CZQX_GANDER_WEST,CZQX_GANDER_DELEGATION</Volumes>
+  <Sector FullName="Gander Delegation" Frequency="132.1" Callsign="CZQX_CTR" Name="GANDD">
+    <Volumes>CZQX_GANDER_WEST,CZQX_GANDER_DELEGATION</Volumes> <ResponsibleSectors>GANDR</ResponsibleSectors>
+  </Sector>
+  <Sector FullName="Gander Domestic" Frequency="132.75" Callsign="CZQX__CTR" Name="GANDR">
+    <Volumes>Ganders</Volumes>
   </Sector>
   <Sector FullName="Moncton Center" Frequency="132.2" Callsign="CZQM_CTR" Name="MONCT">
-    <ResponsibleSectors>GANDD</ResponsibleSectors>
+    <ResponsibleSectors>GANDD,GANDR</ResponsibleSectors>
   </Sector>
   <Sector FullName="NUUK Center" Frequency="121.3" Callsign="BGGL_FSS" Name="NUUK">
     <Volumes>NUUK</Volumes>
