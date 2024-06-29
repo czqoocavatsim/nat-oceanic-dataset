@@ -220,8 +220,8 @@
     <Message Response="WU">CROSS [POSITION] NOT AFTER [TIME]Z. </Message>
     <Message Response="WU">FM [POSITION] MNTN FL[LEVEL] M[SPEED].</Message>
   </Category>
-  <Category name="WELCOME" AutoloadElements="true" SendViaTM="true">
+  <Category name="WELCOME" SendViaTM="true">
+    <Message Response="NE">SQUAWK 2000 TO LOG ON ADS-B AND CPDLC</Message>
     <Message Response="R">THIS IS AN AUTOMATED MESSAGE TO CONFIRM CPDLC CONNECTION TO CZQX/EGGX</Message>
-    <Message Response="NE">SQUAWK 2000 TO LOG ON ADSB AND CPDLC</Message>
   </Category>
 </Messages>
