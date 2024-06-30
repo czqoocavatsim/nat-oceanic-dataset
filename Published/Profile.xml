@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Profile Name="NAT" FullName="Gander Oceanic">
-	<Version AIRAC="2406" Revision="d" PublishDate="20240630" UpdateURL="https://github.com/czqoocavatsim/nat-oceanic-dataset/raw/main/Published/" />
+	<Version AIRAC="2406" Revision="e" PublishDate="20240630" UpdateURL="https://github.com/czqoocavatsim/nat-oceanic-dataset/raw/main/Published/" />
 	<Servers>
 		<VATSIMStatus url="https://status.vatsim.net/" />
 		<GRIB url="https://sawbe.com/GRIB/" />
