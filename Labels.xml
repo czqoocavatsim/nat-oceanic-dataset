@@ -62,8 +62,20 @@
       <Item Type="LABEL_ITEM_CFL_LOWER" Colour="CFLHighlight" LeftClick="Label_CFL_Popup" MiddleClick="Label_NewCFL_Toggle"/>
       <Item Type="LABEL_ITEM_WXDEV_R" Colour="StaticTools" LeftClick="Label_WX_R_Popup"/>
     </DataLine>
+    <DataLine id="ADESTYPE">
+      <Item Type="LABEL_ITEM_ADES" BackgroundColour="" Colour="" LeftClick="" MiddleClick="" RightClick=""/>
+      <Item Type="LABEL_ITEM_ATYPE" BackgroundColour="" Colour="" LeftClick="" MiddleClick="" RightClick="" LeftPadding="1"/>
+      <Item Type="LABEL_ITEM_PBN_CAP" BackgroundColour="" Colour="" LeftClick="" MiddleClick="" RightClick="" LeftPadding="1"/>
+    </DataLine>
+    <DataLine SharedWith="ADESTYPE">
+      <Item Type="LABEL_ITEM_NEXT_FIX" BackgroundColour="" Colour="" LeftClick="" MiddleClick="" RightClick=""/>
+      <Item Type="LABEL_ITEM_NEXT_FIX_2" BackgroundColour="" Colour="" LeftClick="" MiddleClick="" RightClick="" LeftPadding="1"/>
+    </DataLine>
     <DataLine>
       <Item Type="LABEL_ITEM_OPDATA" BackgroundColour="" Colour="" LeftClick="Label_OpData_Popup" MiddleClick="" RightClick="Label_Toggle_1"/>
+    </DataLine>
+    <DataLine>
+      <Item Type="LABEL_ITEM_CPDLCAIR" />
     </DataLine>
   </Label>
   <Label Type="Extended" MaximumWidth="11" LabelRectangle="Default">
@@ -106,6 +118,9 @@
     </DataLine>
     <DataLine>
       <Item Type="LABEL_ITEM_OPDATA" BackgroundColour="" Colour="" LeftClick="Label_OpData_Popup" MiddleClick="" RightClick="Label_Toggle_1"/>
+    </DataLine>
+    <DataLine>
+      <Item Type="LABEL_ITEM_CPDLCAIR" />
     </DataLine>
   </Label>
   <Label Type="GroundAir" MaximumWidth="11" LabelRectangle="None">
