@@ -174,11 +174,11 @@
     <Lat>+43.000</Lat>
     <Long>-9.000</Long>
   </Radar>
-  <Radar Name="ShanPRI" Type="PRI" Elevation="500" MaxRange="5000">
+  <Radar Name="ShanPRI" Type="ADSB" Elevation="500" MaxRange="5000">
     <Lat>+53.000</Lat>
     <Long>-09.000</Long>
   </Radar>
-  <Radar Name="MadridPRI" Type="PRI" Elevation="1000" MaxRange="5000">
+  <Radar Name="MadridPRI" Type="ADSB" Elevation="1000" MaxRange="5000">
     <Lat>+43.000</Lat>
     <Long>-9.000</Long>
   </Radar>
