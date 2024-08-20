@@ -1,47 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <TrackSymbols>
-	<TrackSymbol Type="Primary" StrokeWidth="1">
+	<TrackSymbol Type="Primary" StrokeWidth="1.5" RotateToTrack="True">
 		<PathGeometry>
-			<Figure Start="-4,-4" FigureBegin="Hollow" FigureEnd="Open">
-				<Line>5,5</Line>
-			</Figure>		
-			<Figure Start="4,-4" FigureBegin="Hollow" FigureEnd="Open">
-				<Line>-5,5</Line>
-			</Figure>			
-			<Figure Start="0,-4" FigureBegin="Hollow" FigureEnd="Open">
-				<Line>0,5</Line>			
-			</Figure>			
-			<Figure Start="-4,0" FigureBegin="Hollow" FigureEnd="Open">
-				<Line>5,0</Line>			
-			</Figure>			
+			<Figure Start="-9,3" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>0,1</Line>
+				<Line>9,3</Line>				
+			</Figure>	
+			<Figure Start="0,-8" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>0,9</Line>				
+			</Figure>	
 		</PathGeometry>
 	</TrackSymbol>
 	<!-- Special Code 2 Diamond -->
 	<TrackSymbol Type="ModeA" SpecialCode="2000" RotateToTrack="True" StrokeWidth="0">
 		<PathGeometry>
 			<Figure Start="0,-8" FigureBegin="Filled" FigureEnd="Closed">
-				<Line>-1.5,-6</Line>
-				<Line>-1.5,-1.5</Line>
-				<Line>-9,3</Line>
-				<Line>-9,5</Line>
-				<Line>-1.5,3</Line>
-				<Line>-1.5,7</Line>
-				<Line>-4,10</Line>
-				<Line>-4,11</Line>
-				<Line>4,11</Line>
-				<Line>4,10</Line>
-				<Line>1.5,7</Line>				
-				<Line>1.5,3</Line>
-				<Line>9,5</Line>
-				<Line>9,3</Line>
-				<Line>1.5,-1.5</Line>
-				<Line>1.5,-6</Line>			
-			</Figure>				
-		</PathGeometry>		
-	</TrackSymbol>
-	<TrackSymbol Type="ModeA" RotateToTrack="True" StrokeWidth="1">
-		<PathGeometry>
-			<Figure Start="0,-8" FigureBegin="Hollow" FigureEnd="Closed">
 				<Line>-1.5,-6</Line>
 				<Line>-1.5,-1.5</Line>
 				<Line>-9,3</Line>
@@ -60,14 +33,20 @@
 				<Line>1.5,-1.5</Line>
 				<Line>1.5,-6</Line>				
 			</Figure>
-			<Figure Start="-9,3" FigureBegin="Hollow" FigureEnd="Open">
-				<Line>0,1</Line>
-				<Line>9,3</Line>				
-			</Figure>	
-			<Figure Start="0,-8" FigureBegin="Hollow" FigureEnd="Open">
-				<Line>0,9</Line>				
-			</Figure>			
-		</PathGeometry>			
+		</PathGeometry>	
+	</TrackSymbol>
+	<TrackSymbol Type="ModeA" RotateToTrack="True" StrokeWidth="1">
+		<PathGeometry>
+			<Figure Start="8.8,-4" FigureBegin="Hollow" FigureEnd="Closed">
+				<Line>4, -8.8</Line>
+				<Line>-4, -8.8</Line>
+				<Line>-8.8, -4</Line>
+				<Line>-8.8, 4</Line>
+				<Line>-4, 8.8</Line>
+				<Line>4, 8.8</Line>
+				<Line>8.8, 4</Line>
+			</Figure>
+		</PathGeometry>		
 	</TrackSymbol>
 	
 	<!-- SSR Astrix -->		
@@ -121,13 +100,6 @@
 				<Line>9,3</Line>
 				<Line>1.5,-1.5</Line>
 				<Line>1.5,-6</Line>				
-			</Figure>
-			<Figure Start="-9,3" FigureBegin="Hollow" FigureEnd="Open">
-				<Line>0,1</Line>
-				<Line>9,3</Line>				
-			</Figure>	
-			<Figure Start="0,-8" FigureBegin="Hollow" FigureEnd="Open">
-				<Line>0,9</Line>				
 			</Figure>			
 		</PathGeometry>	
 	</TrackSymbol>	
@@ -182,14 +154,7 @@
 				<Line>1.5,-1.5</Line>
 				<Line>1.5,-6</Line>				
 			</Figure>
-			<Figure Start="-9,3" FigureBegin="Hollow" FigureEnd="Open">
-				<Line>0,1</Line>
-				<Line>9,3</Line>				
-			</Figure>	
-			<Figure Start="0,-8" FigureBegin="Hollow" FigureEnd="Open">
-				<Line>0,9</Line>				
-			</Figure>			
-		</PathGeometry>	
+		</PathGeometry>
 	</TrackSymbol>	
 
 	<!-- ADSB Line in Diamond -->
@@ -280,17 +245,14 @@
 	<!-- Radar Coast Hashtag-->	
 	<TrackSymbol Type="CoastRadar" StrokeWidth="1">
 		<PathGeometry>
-			<Figure Start="-2,-5" FigureBegin="Hollow" FigureEnd="Open">
-				<Line>-3,6</Line>
-			</Figure>
-			<Figure Start="2,-5" FigureBegin="Hollow" FigureEnd="Open">
-				<Line>1,6</Line>
-			</Figure>
-			<Figure Start="-5,-2" FigureBegin="Hollow" FigureEnd="Open">
-				<Line>5,-2</Line>
-			</Figure>	
-			<Figure Start="-5,2" FigureBegin="Hollow" FigureEnd="Open">
-				<Line>5, 2</Line>
+			<Figure Start="8.8,-4" FigureBegin="Hollow" FigureEnd="Closed">
+				<Line>4, -8.8</Line>
+				<Line>-4, -8.8</Line>
+				<Line>-8.8, -4</Line>
+				<Line>-8.8, 4</Line>
+				<Line>-4, 8.8</Line>
+				<Line>4, 8.8</Line>
+				<Line>8.8, 4</Line>
 			</Figure>
 		</PathGeometry>
 	</TrackSymbol>		
