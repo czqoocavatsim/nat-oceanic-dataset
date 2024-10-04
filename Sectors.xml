@@ -29,6 +29,9 @@
   <Sector FullName="Gander Domestic" Frequency="132.75" Callsign="CZQX__CTR" Name="GANDR">
     <Volumes>Ganders</Volumes>
   </Sector>
+  <Sector FullName="Montreal Center" Frequency="128.775" Callsign="MTL_CTR" Name="MOTRL">
+    <Volumes>MTL_CTR</Volumes>
+  </Sector>
   <Sector FullName="Moncton Center" Frequency="132.2" Callsign="CZQM_CTR" Name="MONCT">
     <ResponsibleSectors>GANDD,GANDR</ResponsibleSectors>
   </Sector>
