@@ -6,5 +6,6 @@
     <Natracks url="https://www.notams.faa.gov/common/nat.html" />
     <Phraseology url="https://ganderoceanic.ca/assets/resources/files/atc/Gander_Oceanic_Phraseology_Sheet_1.1.pdf" />
     <SOPs url="https://ganderoceanic.ca/assets/resources/files/atc/ShanwickEGGXGanderCZQOOceanicControlProcedures.pdf" />
+    <SELCAL-Gen Url="https://perchance.org/betterselcal"/>
   </Browsers>
 </MET>
