@@ -298,12 +298,6 @@
             <Point>CONNY</Point>
             <Point>MAPOR</Point>
             <Point>MALIS</Point>
-            <Point>LETON</Point>
-            <Point>IORIO</Point>
-            <Point>JORGG</Point>
-            <Point>DUNED</Point>
-            <Point>LERUG</Point>
-            <Point>ELMUC</Point>
             <Point>MAPYL</Point>
             <Point>OMALY</Point>
             <Point>BAAGR</Point>
@@ -322,6 +316,8 @@
             <Point>SEPTO</Point>
             <Point>KORAL</Point>
             <Point>SONSO</Point>
+            <Point>LETON</Point>
+            <Point>IORIO</Point>
             <Point>COUKY</Point>
             <Point>FOLLE</Point>
             <Point>PRRDO</Point>
@@ -442,6 +438,7 @@
             <Point>KASAR</Point>
             <Point>LNHOM</Point>
             <Point>SLUKA</Point>
+            <Point>JORGG</Point>
             <Point>CAROX</Point>
             <Point>NELSR</Point>
             <Point>RNTRY</Point>
@@ -842,12 +839,16 @@
             <Point>JAAMS</Point>
             <Point>ALINN</Point>
             <Point>HURTS</Point>
+            <Point>SAWED</Point>
+            <Point>ZJAAY</Point>
+            <Point>BYSEL</Point>
+            <Point>ACTUP</Point>
             <Point>PANDY</Point>
             <Point>RAYVO</Point>
             <Point>SESUE</Point>
             <Point>BUMMA</Point>
             <Point>YURCK</Point>
-            <Point>LAANA</Point>
+            <Point>JOHAR</Point>
             <Point>TINKK</Point>
             <Point>DFENC</Point>
             <Point>OCTAL</Point>
@@ -865,7 +866,6 @@
             <Point>CUDLE</Point>
             <Point>SUSSA</Point>
             <Point>KTEEE</Point>
-            <Point>SAWED</Point>
             <Point>SCOOB</Point>
             <Point>GROKK</Point>
             <Point>RYVRR</Point>
@@ -906,7 +906,6 @@
             <Point>EPAKA</Point>
             <Point>IRKID</Point>
             <Point>DEMZO</Point>
-            <Point>ZJAAY</Point>
             <Point>PAJET</Point>
             <Point>CAANO</Point>
             <Point>TBONN</Point>
@@ -1095,14 +1094,13 @@
             <Point>PUXOP</Point>
             <Point>EMLOB</Point>
             <Point>OMVEV</Point>
-            <Point>EBDAD</Point>
+            <Point>NABIN</Point>
             <Point>TOVAR</Point>
             <Point>CAKET</Point>
             <Point>ELLDE</Point>
             <Point>YEASO</Point>
             <Point>PAACK</Point>
             <Point>KOHLS</Point>
-            <Point>BYSEL</Point>
             <Point>HEADI</Point>
             <Point>SAILN</Point>
             <Point>NTMEG</Point>
@@ -1382,6 +1380,11 @@
             <Point>ODDEL</Point>
             <Point>DEARY</Point>
             <Point>DIDDY</Point>
+            <Point>VANNC</Point>
+            <Point>MADLY</Point>
+            <Point>PEGIE</Point>
+            <Point>DUTEE</Point>
+            <Point>FLRNS</Point>
             <Point>MARKT</Point>
             <Point>AIRBT</Point>
             <Point>DOWDI</Point>
@@ -1942,6 +1945,7 @@
             <Point>VENDS</Point>
             <Point>BEERD</Point>
             <Point>SATOW</Point>
+            <Point>ATTIK</Point>
             <Point>OLNOS</Point>
             <Point>MYRAR</Point>
             <Point>SKALM</Point>
@@ -2058,11 +2062,7 @@
             <Point>SUBBS</Point>
             <Point>BORQE</Point>
             <Point>JENYY</Point>
-            <Point>ATTIK</Point>
-            <Point>TILDI</Point>
             <Point>BELAC</Point>
-            <Point>COZIE</Point>
-            <Point>GAGDD</Point>
             <Point>BROOM</Point>
             <Point>JITGO</Point>
             <Point>WIVVI</Point>
@@ -2078,6 +2078,394 @@
             <Point>USIBA</Point>
             <Point>GODIV</Point>
             <Point>OGERO</Point>
-        </Symbol>
+      </Symbol>
+      <Symbol Type="Hexagon">
+          <Point>ACK</Point>
+          <Point>ACY</Point>
+          <Point>AKI</Point>
+          <Point>ARD</Point>
+          <Point>ARR</Point>
+          <Point>ATR</Point>
+          <Point>AUG</Point>
+          <Point>BAF</Point>
+          <Point>BAL</Point>
+          <Point>BDA</Point>
+          <Point>BDR</Point>
+          <Point>BEJ</Point>
+          <Point>BEL</Point>
+          <Point>BGR</Point>
+          <Point>BML</Point>
+          <Point>BOS</Point>
+          <Point>BV</Point>
+          <Point>BWZ</Point>
+          <Point>BYT</Point>
+          <Point>CAM</Point>
+          <Point>CAS</Point>
+          <Point>CCC</Point>
+          <Point>CCS</Point>
+          <Point>CCV</Point>
+          <Point>CEF</Point>
+          <Point>CHS</Point>
+          <Point>CMK</Point>
+          <Point>COF</Point>
+          <Point>COL</Point>
+          <Point>CON</Point>
+          <Point>CON</Point>
+          <Point>CRE</Point>
+          <Point>CRG</Point>
+          <Point>CRI</Point>
+          <Point>CRK</Point>
+          <Point>CTR</Point>
+          <Point>CVI</Point>
+          <Point>CYN</Point>
+          <Point>DAP</Point>
+          <Point>DAR</Point>
+          <Point>DCY</Point>
+          <Point>DHT</Point>
+          <Point>DKH</Point>
+          <Point>DML</Point>
+          <Point>DMR</Point>
+          <Point>DMT</Point>
+          <Point>DMU</Point>
+          <Point>DMX</Point>
+          <Point>DOV</Point>
+          <Point>DPK</Point>
+          <Point>DPR</Point>
+          <Point>DQO</Point>
+          <Point>DSA</Point>
+          <Point>DSC</Point>
+          <Point>DSL</Point>
+          <Point>DUB</Point>
+          <Point>ECG</Point>
+          <Point>EEN</Point>
+          <Point>ENE</Point>
+          <Point>ENO</Point>
+          <Point>EON</Point>
+          <Point>ESP</Point>
+          <Point>EWN</Point>
+          <Point>FAR</Point>
+          <Point>FAY</Point>
+          <Point>FLL</Point>
+          <Point>FLO</Point>
+          <Point>FMH</Point>
+          <Point>FOK</Point>
+          <Point>FRS</Point>
+          <Point>FTM</Point>
+          <Point>FTV</Point>
+          <Point>FUE</Point>
+          <Point>FUN</Point>
+          <Point>GDM</Point>
+          <Point>GDV</Point>
+          <Point>GMN</Point>
+          <Point>GON</Point>
+          <Point>GSB</Point>
+          <Point>GTG</Point>
+          <Point>GTK</Point>
+          <Point>GXU</Point>
+          <Point>HCM</Point>
+          <Point>HCN</Point>
+          <Point>HFD</Point>
+          <Point>HL</Point>
+          <Point>HPW</Point>
+          <Point>HR</Point>
+          <Point>HTO</Point>
+          <Point>HUL</Point>
+          <Point>HUO</Point>
+          <Point>HVN</Point>
+          <Point>IGN</Point>
+          <Point>ILM</Point>
+          <Point>ING</Point>
+          <Point>ISO</Point>
+          <Point>JFK</Point>
+          <Point>KFV</Point>
+          <Point>LAY</Point>
+          <Point>LEB</Point>
+          <Point>LFI</Point>
+          <Point>LFV</Point>
+          <Point>LGA</Point>
+          <Point>LGM</Point>
+          <Point>LIS</Point>
+          <Point>LM</Point>
+          <Point>LPC</Point>
+          <Point>LRA</Point>
+          <Point>LRO</Point>
+          <Point>LTE</Point>
+          <Point>LVL</Point>
+          <Point>LWM</Point>
+          <Point>LZR</Point>
+          <Point>MAD</Point>
+          <Point>MCM</Point>
+          <Point>MHT</Point>
+          <Point>MLB</Point>
+          <Point>MLT</Point>
+          <Point>MOB</Point>
+          <Point>MOJ</Point>
+          <Point>MS</Point>
+          <Point>MTR</Point>
+          <Point>MVY</Point>
+          <Point>MXE</Point>
+          <Point>NBC</Point>
+          <Point>NCA</Point>
+          <Point>NEL</Point>
+          <Point>NFE</Point>
+          <Point>NGU</Point>
+          <Point>NHK</Point>
+          <Point>NIP</Point>
+          <Point>NKT</Point>
+          <Point>NQ</Point>
+          <Point>NRB</Point>
+          <Point>NSA</Point>
+          <Point>NTU</Point>
+          <Point>NZC</Point>
+          <Point>OG</Point>
+          <Point>OMN</Point>
+          <Point>OOD</Point>
+          <Point>ORF</Point>
+          <Point>ORL</Point>
+          <Point>ORW</Point>
+          <Point>OTT</Point>
+          <Point>OVR</Point>
+          <Point>PBI</Point>
+          <Point>PE</Point>
+          <Point>PHK</Point>
+          <Point>PNN</Point>
+          <Point>POB</Point>
+          <Point>PRT</Point>
+          <Point>PSM</Point>
+          <Point>PTA</Point>
+          <Point>PTW</Point>
+          <Point>PUT</Point>
+          <Point>PVD</Point>
+          <Point>PVN</Point>
+          <Point>PWL</Point>
+          <Point>RBV</Point>
+          <Point>RBX</Point>
+          <Point>RDU</Point>
+          <Point>RIC</Point>
+          <Point>SAV</Point>
+          <Point>SAX</Point>
+          <Point>SBJ</Point>
+          <Point>SBY</Point>
+          <Point>SEY</Point>
+          <Point>SGJ</Point>
+          <Point>SGO</Point>
+          <Point>SGR</Point>
+          <Point>SHA</Point>
+          <Point>SIE</Point>
+          <Point>SLG</Point>
+          <Point>SMR</Point>
+          <Point>SNT</Point>
+          <Point>SRA</Point>
+          <Point>SS</Point>
+          <Point>SSI</Point>
+          <Point>STG</Point>
+          <Point>STO</Point>
+          <Point>STW</Point>
+          <Point>SVN</Point>
+          <Point>SWL</Point>
+          <Point>TBC</Point>
+          <Point>TEB</Point>
+          <Point>TFN</Point>
+          <Point>TFS</Point>
+          <Point>TGN</Point>
+          <Point>TLZ</Point>
+          <Point>TNN</Point>
+          <Point>TRM</Point>
+          <Point>TRV</Point>
+          <Point>TYI</Point>
+          <Point>UYR</Point>
+          <Point>UZX</Point>
+          <Point>VAN</Point>
+          <Point>VAP</Point>
+          <Point>VBZ</Point>
+          <Point>VCN</Point>
+          <Point>VES</Point>
+          <Point>VFA</Point>
+          <Point>VFL</Point>
+          <Point>VGO</Point>
+          <Point>VIS</Point>
+          <Point>VKZ</Point>
+          <Point>VMG</Point>
+          <Point>VSM</Point>
+          <Point>WST</Point>
+          <Point>WTP</Point>
+          <Point>YAY</Point>
+          <Point>YDF</Point>
+          <Point>YFB</Point>
+          <Point>YHZ</Point>
+          <Point>YJH</Point>
+          <Point>YMZ</Point>
+          <Point>YQI</Point>
+          <Point>YQX</Point>
+          <Point>YQY</Point>
+          <Point>YVP</Point>
+          <Point>YYG</Point>
+          <Point>YYR</Point>
+          <Point>YYT</Point>
+          <Point>ZBV</Point>
+          <Point>ZFP</Point>
+          <Point>ZQA</Point>
+          <Point>ZRT</Point>
+      </Symbol>
+      <Symbol Type="DotFillCircle">
+          <Point>1D</Point>
+          <Point>1E</Point>
+          <Point>2B</Point>
+          <Point>3R</Point>
+          <Point>6F</Point>
+          <Point>7C</Point>
+          <Point>7H</Point>
+          <Point>AKQ</Point>
+          <Point>AQE</Point>
+          <Point>AR</Point>
+          <Point>AST</Point>
+          <Point>AU</Point>
+          <Point>AV</Point>
+          <Point>BHF</Point>
+          <Point>BUP</Point>
+          <Point>BX</Point>
+          <Point>C</Point>
+          <Point>CA</Point>
+          <Point>CFN</Point>
+          <Point>CFY</Point>
+          <Point>CH</Point>
+          <Point>CML</Point>
+          <Point>CNH</Point>
+          <Point>CO</Point>
+          <Point>COA</Point>
+          <Point>CPC</Point>
+          <Point>CQX</Point>
+          <Point>CTZ</Point>
+          <Point>DA</Point>
+          <Point>DLC</Point>
+          <Point>DYB</Point>
+          <Point>E8</Point>
+          <Point>EGT</Point>
+          <Point>EL</Point>
+          <Point>ES</Point>
+          <Point>ESG</Point>
+          <Point>EVR</Point>
+          <Point>EW</Point>
+          <Point>FIL</Point>
+          <Point>FOY</Point>
+          <Point>FP</Point>
+          <Point>FR</Point>
+          <Point>FV</Point>
+          <Point>FX</Point>
+          <Point>GA</Point>
+          <Point>GC</Point>
+          <Point>GF</Point>
+          <Point>GH</Point>
+          <Point>GJ</Point>
+          <Point>GM</Point>
+          <Point>GMA</Point>
+          <Point>GMN</Point>
+          <Point>HA</Point>
+          <Point>HB</Point>
+          <Point>HB</Point>
+          <Point>HI</Point>
+          <Point>HIE</Point>
+          <Point>HJ</Point>
+          <Point>HL</Point>
+          <Point>HN</Point>
+          <Point>HQT</Point>
+          <Point>HS</Point>
+          <Point>HT</Point>
+          <Point>HXO</Point>
+          <Point>HY</Point>
+          <Point>IL</Point>
+          <Point>IL</Point>
+          <Point>IS</Point>
+          <Point>IS</Point>
+          <Point>JA</Point>
+          <Point>JA</Point>
+          <Point>JB</Point>
+          <Point>JH</Point>
+          <Point>JN</Point>
+          <Point>KER</Point>
+          <Point>KF</Point>
+          <Point>KLY</Point>
+          <Point>KN</Point>
+          <Point>KNK</Point>
+          <Point>LAH</Point>
+          <Point>LAR</Point>
+          <Point>LLW</Point>
+          <Point>LNT</Point>
+          <Point>MA</Point>
+          <Point>ME</Point>
+          <Point>MJ</Point>
+          <Point>MM</Point>
+          <Point>MN</Point>
+          <Point>MNI</Point>
+          <Point>MQ</Point>
+          <Point>MQI</Point>
+          <Point>MY</Point>
+          <Point>NA</Point>
+          <Point>NB</Point>
+          <Point>NEL</Point>
+          <Point>NHK</Point>
+          <Point>NN</Point>
+          <Point>OA</Point>
+          <Point>OE</Point>
+          <Point>OE</Point>
+          <Point>OG</Point>
+          <Point>OK</Point>
+          <Point>OL</Point>
+          <Point>OP</Point>
+          <Point>OR</Point>
+          <Point>OW</Point>
+          <Point>OZN</Point>
+          <Point>PD</Point>
+          <Point>PI</Point>
+          <Point>PV</Point>
+          <Point>PVC</Point>
+          <Point>RE</Point>
+          <Point>RF</Point>
+          <Point>RK</Point>
+          <Point>RNB</Point>
+          <Point>RNW</Point>
+          <Point>RYD</Point>
+          <Point>SB</Point>
+          <Point>SC</Point>
+          <Point>SC</Point>
+          <Point>SF</Point>
+          <Point>SKU</Point>
+          <Point>SLG</Point>
+          <Point>SM</Point>
+          <Point>SMA</Point>
+          <Point>SO</Point>
+          <Point>SP</Point>
+          <Point>SW</Point>
+          <Point>TN</Point>
+          <Point>TNA</Point>
+          <Point>TO</Point>
+          <Point>UTX</Point>
+          <Point>VA</Point>
+          <Point>VG</Point>
+          <Point>VM</Point>
+          <Point>VON</Point>
+          <Point>VP</Point>
+          <Point>VR</Point>
+          <Point>WTD</Point>
+          <Point>Y</Point>
+          <Point>YAS</Point>
+          <Point>YCY</Point>
+          <Point>YDP</Point>
+          <Point>YFY</Point>
+          <Point>YJI</Point>
+          <Point>YMH</Point>
+          <Point>YR</Point>
+          <Point>YXP</Point>
+          <Point>YZX</Point>
+          <Point>ZCC</Point>
+          <Point>ZFP</Point>
+          <Point>ZHZ</Point>
+          <Point>ZIN</Point>
+          <Point>ZMH</Point>
+          <Point>ZNS</Point>
+          <Point>ZSJ</Point>
+          <Point>ZWC</Point>
+          <Point>ZWE</Point>
+      </Symbol>
   </Map> 	
 </Maps>
