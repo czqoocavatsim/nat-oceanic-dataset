@@ -1,6 +1,6 @@
 # NAT-Gander-and-shanwick
 
-North atantic track combined Gander and Shanwick (soon to include new york)
+North atantic track combined Gander and Shanwick
 
 **`Profile.xml` must be updated for each release**
 
