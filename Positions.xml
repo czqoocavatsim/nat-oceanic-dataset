@@ -31,7 +31,7 @@
     <CFL QuickLevel="10000" />
     <ArrivalLists/>
     <ControllerInfo>
-      <Line>"Shanwick Radio" or "Gander Radio" | CPDLC NATX.</Line>
+      <Line>"Shanwick Radio" or "Gander Radio" | CPDLC N/A.</Line>
       <Line>Covering Shanwick (EGGX) and Gander Oceanic (CZQX) OCAs.</Line>
       <Line>Oceanic Clearance on nattrak.vatsim.net. Clearance not available on CPDLC.</Line>
     </ControllerInfo>
@@ -62,7 +62,7 @@
     <CFL QuickLevel="10000" />
     <ArrivalLists/>
     <ControllerInfo>
-      <Line>"Gander Radio" | CPDLC CZQX.</Line>
+      <Line>"Gander Radio" | CPDLC N/A.</Line>
       <Line>Covering Gander OCA.</Line>
       <Line>Oceanic Clearance on nattrak.vatsim.net. Clearance not available on CPDLC.</Line>
     </ControllerInfo>
@@ -94,7 +94,7 @@
     <CFL QuickLevel="10000" />
     <ArrivalLists/>
     <ControllerInfo>
-      <Line>"Shanwick Radio" | CPDLC EGGX.</Line>
+      <Line>"Shanwick Radio" | CPDLC N/A.</Line>
       <Line>Covering Shanwick OCA.</Line>
       <Line>Oceanic Clearance on nattrak.vatsim.net. Clearance not available on CPDLC.</Line>
     </ControllerInfo>
