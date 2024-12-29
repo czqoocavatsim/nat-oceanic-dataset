@@ -142,11 +142,11 @@
                     </StripLayoutSection>
 					<StripLayoutSection FlowDirection="Vertical" Border="Vertical">
 						<StripLayoutLines>
-							<!--<StripLayoutLine>
+							<StripLayoutLine>
 								<StripItems>
 									<StripItem Type="GlobalOpsInfo" LeftClick="Strip_GlobalOps" MaxLength="15" MinLength="15"/>
 								</StripItems>
-							</StripLayoutLine>-->
+							</StripLayoutLine>
 							<StripLayoutLine Border="Top">
 								<StripItems>
 									<StripItem Type="LocalOpsInfo" LeftClick="Strip_LocalOps" MaxLength="15" MinLength="15"/>
