@@ -224,4 +224,7 @@
     <Message Response="NE">SQUAWK 2000 TO LOG ON ADS-B AND CPDLC</Message>
     <Message Response="R">THIS IS AN AUTOMATED MESSAGE TO CONFIRM CPDLC CONNECTION TO CZQX/EGGX</Message>
   </Category>
+  <Category name="CLEARANCE" SendViaTM="true">
+    <Message Response="R">HELLO YOU REQUIRE OCEANIC RCL PRIOR TO ENTRY. PLEASE VISIT https://nattrak.vatsim.net/auth/redirect TO FILE FOR YOUR OCEANIC CROSSING. ENTRY WITHOUT ONE IS NOT PERMITTED. </Message>
+  </Category>
 </Messages>
