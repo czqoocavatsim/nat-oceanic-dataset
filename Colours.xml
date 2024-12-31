@@ -30,7 +30,7 @@
 	</Colour>
   <Colour id="StripBackground">
 		<Use>Strip Backgrounds</Use>
-		<Name>NAT Blue</Name>
+		<Name>grey</Name>
 		<R>90</R>
 		<G>90</G>
 		<B>90</B>
@@ -38,9 +38,9 @@
   <Colour id="WindowBackgound">
 		<Use>Window Backgrounds</Use>
 		<Name>NAT Blue</Name>
-		<R>80</R>
-		<G>123</G>
-		<B>179</B>
+		<R>0</R>
+		<G>100</G>
+		<B>158</B>
 	</Colour>
   <Colour id="Preactive">
 		<Use>Preactive Tracks and Strips</Use>
@@ -59,9 +59,9 @@
   <Colour id="CPDLCMessageBackground">
 		<Use>CPDLC Background</Use>
 		<Name>NAT Blue</Name>
-		<R>59</R>
-		<G>110</G>
-		<B>179</B>
+		<R>0</R>
+		<G>100</G>
+		<B>158</B>
 	</Colour>
   <Colour id="CPDLCDownlink">
 		<Use>CPDLC Downlink Highlight and Messages</Use>
@@ -101,22 +101,22 @@
   <Colour id="VSCSBackground">
     <Use>VSCS Background</Use>
     <Name>NAT Blue</Name>
-		<R>59</R>
-		<G>110</G>
-		<B>179</B>
+		<R>0</R>
+		<G>100</G>
+		<B>158</B>
   </Colour>
   <Colour id="VSCSHotline">
     <Use>Closed VSCS Hotlines</Use>
     <Name>Yellow</Name>
-    <R>235</R>
-    <G>235</G>
+    <R>180</R>
+    <G>0</G>
     <B>0</B>
   </Colour>
   <Colour id="VSCSOpenHotline">
     <Use>Open VSCS Hotlines</Use>
     <Name>Green</Name>
     <R>0</R>
-    <G>235</G>
+    <G>180</G>
     <B>0</B>
   </Colour>
   <Colour id="VSCSColdline">
@@ -124,7 +124,7 @@
     <Name>CyanBlue</Name>
     <R>0</R>
     <G>0</G>
-    <B>0</B>
+    <B>180</B>
   </Colour>
   <Colour id="VSCSOpenColdline">
     <Use>VSCS Open and (flashing) Ringing Coldlines</Use>
@@ -142,16 +142,16 @@
   </Colour>
   <Colour id="VSCSReceivingFrequency">
     <Use>VSCS Frequencies are receiving a transmission</Use>
-    <Name>White</Name>
+    <Name>Cyan</Name>
     <R>0</R>
-    <G>0</G>
-    <B>0</B>
+    <G>180</G>
+    <B>180</B>
   </Colour>
   <Colour id="VSCSFrequencyWarning">
     <Use>VSCS Frequencies that are receive only or without voice</Use>
-    <Name>Yellow</Name>
+    <Name>Red</Name>
     <R>235</R>
-    <G>235</G>
+    <G>0</G>
     <B>0</B>
   </Colour>
   <Colour id="VSCSButtonDepressed">
