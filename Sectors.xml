@@ -12,6 +12,10 @@
     <Volumes>EGGX_SHANWICK</Volumes>
     <ResponsibleSectors>SHANT,BRSTX</ResponsibleSectors>
   </Sector>  
+  <Sector FullName="NAT Oceanic" Frequency="128.0" Position="CTR" Callsign="NAT_DEL" Name="NATDEL">
+    <Volumes></Volumes>
+    <ResponsibleSectors>GNDEL,SWDEL</ResponsibleSectors>
+  </Sector>
   <Sector FullName="Shanwick Oceanic" Frequency="127.650" Callsign="EGGX_DEL" Name="SWDEL">
     <Volumes>EGGX_SHANWICK</Volumes>
   </Sector>

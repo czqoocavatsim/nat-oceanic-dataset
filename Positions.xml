@@ -36,6 +36,43 @@
       <Line>Oceanic Clearance on nattrak.vatsim.net. Clearance not available on CPDLC.</Line>
     </ControllerInfo>
   </Position>
+  <Position Name="NAT Delivery" Type="ASD" DefaultCenter="+570000.000-0295913.000" Position="CTR" DefaultRange="3500" VisibilityRange="600">  
+    <Sectors>
+      <Sector Name="NATDEL"/>
+      <Sector Name="NATOC"/>
+      <Sector Name="GANOC"/>
+      <Sector Name="SHANO"/>
+      <Sector Name="SHANT"/>
+      <Sector Name="MONCT"/>
+      <Sector Name="GANDD"/>
+      <Sector Name="BRSTX"/>
+    </Sectors>
+    <ManualVisibility>
+      <Point>+47.816667-015.007778</Point>
+      <Point>+62.600000-013.015556</Point>
+      <Point>+62.433333-061.000278</Point>
+      <Point>+47.750000-057.005000</Point>
+    </ManualVisibility>
+    <Maps>
+      <Map Name="GEO" />
+      <Map Name="FIR/FIR" />
+      <Map Name="FIR/SECT" />	
+      <Map Name="Tracks and Airways/Tango Routes"/>
+      <Map Name="Tracks and Airways/Concord Routes"/>"
+    </Maps>
+    <Strips Mode="State" Sort="Alpha">
+      <Window Type="State" State="Jurisdiction" Visible="true" />
+      <Window Type="State" State="Announced" Visible="true" />
+      <Window Type="State" State="Preactive" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="10000" />
+    <ArrivalLists/>
+    <ControllerInfo>
+      <Line>"Shanwick Oceanic" or "Gander Oceanic" | CPDLC N/A.</Line>
+      <Line>NAT Voice Delivery VHF.</Line>
+      <Line>Oceanic Clearance on nattrak.vatsim.net. Clearance not available on CPDLC.</Line>
+    </ControllerInfo>
+  </Position>
   <Position Name="Gander Oceanic" Type="ASD" DefaultCenter="+541700.000-0454000.000" DefaultRange="2200" VisibilityRange="600">  
     <Sectors>
       <Sector Name="GANOC"/>  
