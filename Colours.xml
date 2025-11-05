@@ -67,7 +67,7 @@
 		<Use>CPDLC Downlink Highlight and Messages</Use>
 		<Name>DarkGreen</Name>
 		<R>0</R>
-		<G>105</G>
+		<G>50</G>
 		<B>0</B>
 	</Colour>
   <Colour id="CPDLCUplink">
@@ -75,7 +75,7 @@
     <Name>DarkBlue</Name>
     <R>0</R>
     <G>0</G>
-    <B>105</B>
+    <B>50</B>
   </Colour>
   <Colour id="CPDLCFreetext">
     <Use>CPDLC Freetext Messages</Use>
@@ -186,8 +186,8 @@
 		<Use>CPDLC Hot-Send Button</Use>
 		<Name>HotBlue</Name>
 		<R>101</R>
-		<G>101</G>
-		<B>255</B>
+		<G>255</G>
+		<B>101</B>
 	</Colour>
   <Colour id="GroundBackground">
     <Use>A-SMGCS Background</Use>
@@ -483,20 +483,20 @@
     <G>235</G>
     <B>0</B>
   </Colour>
-<Colour id="ListSeparator">
-        <Use>List Separator Bar</Use>
-        <Name>GreenGrey</Name>
-        <R>0</R>
-        <G>0</G>
-        <B>96</B>
-    </Colour>
-    <Colour id="ListSeparatorSelected">
-        <Use>List Separator Bar Selected</Use>
-        <Name>GreenGrey</Name>
-        <R>130</R>
-        <G>146</G>
-        <B>146</B>
-    </Colour>
+  <Colour id="ListSeparator">
+      <Use>List Separator Bar</Use>
+      <Name>GreenGrey</Name>
+      <R>0</R>
+      <G>0</G>
+      <B>96</B>
+  </Colour>
+  <Colour id="ListSeparatorSelected">
+      <Use>List Separator Bar Selected</Use>
+      <Name>GreenGrey</Name>
+      <R>130</R>
+      <G>146</G>
+      <B>146</B>
+  </Colour>
   <Colour id="WindowButtonDepressed">
     <Use>Depressed Window Button Background</Use>
     <Name>YellowGreen</Name>
